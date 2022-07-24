@@ -1,0 +1,34 @@
+# sample HOSTS file for YuanShen / GenshinImpact
+# Logging servers
+127.0.0.1 log-upload-os.mihoyo.com
+127.0.0.1 log-upload-os.hoyoverse.com
+127.0.0.1 log-upload.mihoyo.com
+127.0.0.1 log-upload.hoyoverse.com
+127.0.0.1 overseauspider.yuanshen.com
+# Main data servers
+127.0.0.1 dispatchosglobal.yuanshen.com
+127.0.0.1 dispatchcnglobal.yuanshen.com
+127.0.0.1 autopatchhk.yuanshen.com
+127.0.0.1 autopatchcn.yuanshen.com
+127.0.0.1 api-os-takumi.mihoyo.com
+127.0.0.1 api-os-takumi.hoyoverse.com
+127.0.0.1 hk4e-sdk-os.mihoyo.com
+127.0.0.1 hk4e-sdk-os.hoyoverse.com
+127.0.0.1 hk4e-sdk-os-static.mihoyo.com
+127.0.0.1 hk4e-sdk-os-static.hoyoverse.com
+127.0.0.1 sdk-os-static.mihoyo.com
+127.0.0.1 sdk-os-static.hoyoverse.com
+127.0.0.1 webstatic-sea.mihoyo.com
+127.0.0.1 webstatic-sea.hoyoverse.com
+127.0.0.1 uploadstatic-sea.mihoyo.com
+127.0.0.1 uploadstatic-sea.hoyoverse.com
+127.0.0.1 api-takumi.hoyoverse.com
+127.0.0.1 hk4e-sdk.hoyoverse.com
+127.0.0.1 hk4e-sdk-static.hoyoverse.com
+127.0.0.1 sdk-static.hoyoverse.com
+127.0.0.1 webstatic.hoyoverse.com
+127.0.0.1 uploadstatic.hoyoverse.com
+127.0.0.1 account.hoyoverse.com
+127.0.0.1 api-account.hoyoverse.com
+127.0.0.1 api-account-os.hoyoverse.com
+
