@@ -31,7 +31,7 @@ You'll need several dispatch-specific protobuf befinitions. Look into `dispatch_
 
 ## Supplying encryption keys
 
-There're a few keys you'll need to successfully run dispatch server (and gateserver):
+There're a few keys you'll need to successfully run dispatch server:
 
 - SSL key and certificate
 - Initial traffic encryption key
@@ -80,7 +80,7 @@ Just `cargo run` but with a caveat. By default server listens on privileged port
 
 - On Windows, UAC prompt should automatically pop up and ask you to elevate server's priviledges. If it's not happening, run the server's
   executable as admin.
-- On *nix, you'll need to grant the server the specific capability. You can do it by running `sudo setcap 'cap_net_bind_service=+ep' ./target/debug/RustySamovar`. **Please don't run the server as root!**
+- On *nix, you'll need to grant the server the specific capability. You can do it by running `sudo setcap 'cap_net_bind_service=+ep' ./target/debug/Sapozhok`. **Please don't run the server as root!**
 
 ## Configuration
 
